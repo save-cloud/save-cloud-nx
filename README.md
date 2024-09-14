@@ -6,7 +6,7 @@
 
 ## 下载
 
-- [save-cloud.nro](https://github.com/save-cloud/save-cloud-nx/releases/latest/download/save-cloud.nro)
+- [save-cloud.nro](https://github.com/save-cloud/save-cloud-nx/releases)
 
 ## 功能
 
